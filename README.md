@@ -31,10 +31,11 @@ tov -t yaml < input.yaml
 ----------
 
 ## Flags
-
--f, --file input file (defaults to stdin)
--o, --output output file (defaults to stdout)
--t, --type json | yaml | toml | xml (auto-detect if omitted)
+| Flag | Description |
+| --- | --- |
+| -f | --file input file (defaults to stdin) |
+| -o |  --output output file (defaults to stdout) | 
+| -t | --type json \| yaml \| toml \| xml (auto-detect if omitted) | 
 
 ----------
 
